@@ -1,5 +1,12 @@
 # Telco Customer Churn Prediction
 
+## PERSONAL
+**Nama** : Muhammad Rahardian Baihaqi  
+**Asal Kampus** : UIN SGD Bandung  
+**Program Studi** : Teknik Informatika  
+**Role** : AI Engineer  
+
+
 ## 📌 Project Overview
 
 This project is a machine learning experiment to predict customer churn
@@ -109,11 +116,12 @@ for the churn class (`Yes`) as the primary optimization metric.
 
 ## 📁 Project Structure
 
+```text
 telco-churn-prediction/
 ├── data/
-│ └── WA*Fn-UseC*-Telco-Customer-Churn.csv
+│   └── WAFn-UseC-Telco-Customer-Churn.csv
 ├── notebook/
-│ └── churn_prediction.ipynb
+│   └── churn_prediction.ipynb
 ├── README.md
 └── requirements.txt
 
